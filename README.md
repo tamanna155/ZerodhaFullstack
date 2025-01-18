@@ -12,13 +12,17 @@ Informational Pages: Detailed sections for pricing, account types, and FAQs.
 Here are some images from the output to support the above,
 
 Landing Page/Hero Section:
-![Landing Page/ Hero Section](https://github.com/user-attachments/assets/d8b98ffe-32a5-469e-a0ff-bf1ce0cbc0a1)
+![Landing Page/ Hero Section](https://github.com/user-attachments/assets/458d4f3b-e4c3-47e3-a3ec-04f1aaf29590)
+
 About Section:
-![About Section](https://github.com/user-attachments/assets/2454092e-d916-499c-898b-2ff6829a56eb)
+![About Section](https://github.com/user-attachments/assets/72bfd04b-af01-4ad8-84ec-94f192d8ba95)
+
 Products Section:
-![Products Section](https://github.com/user-attachments/assets/b40eae45-9cd3-4335-a6ad-4edf2ad03599)
+![Products Section]![image](https://github.com/user-attachments/assets/89ea0145-a3dc-4266-ba40-6904b24ee267)
+
 Support Section:
-![Support Section](https://github.com/user-attachments/assets/9dd5db67-ab4d-4be6-a5e5-e72d02e3f2d1)
+![Support Section](https://github.com/user-attachments/assets/caac6536-10f7-47e4-8217-43f00d0ebcf8)
+
 
 ## Kite Sub-Application Clone
 
@@ -29,9 +33,10 @@ Order Book: Tracks user orders, including pending and completed trades.
 Here are some images from the output to support the above,
 
 Dashboard:
-![Dashboard](https://github.com/user-attachments/assets/58132883-6cf4-4f19-9106-cea07dcb5069)
+![Dashboard](https://github.com/user-attachments/assets/5dcde31b-3d6f-4a40-a0f4-47ceef8d09eb)
+
 Funds Section:
-![Funds](https://github.com/user-attachments/assets/02822c10-4c22-4bf9-b502-a3c7a8dd7324)
+![Funds](https://github.com/user-attachments/assets/6d52c11d-8a16-41ec-ae06-b764916a0321)
 
 ## Key Functionalities
 
