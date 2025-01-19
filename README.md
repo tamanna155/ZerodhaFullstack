@@ -66,8 +66,9 @@ Enables deep linking to specific stocks, orders, or portfolio details.
 ## Setup Instructions
 
 ### Clone the Repository:
-
+```
 git clone ZerodhaFullstack
+```
 
 
 ### Install Dependencies:
