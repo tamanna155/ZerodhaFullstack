@@ -11,3 +11,44 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.row img{
+  height: 462px;
+  width: 900px;
+  max-height: 45vh;
+}
+
+a:hover{
+  color: black;
+}
+
+.nav-link{
+  margin-right: 35px;
+}
+
+.nav-link:hover{
+  color: rgb(19, 133, 214);
+}
+
+.links a:hover{
+  color: rgb(19, 133, 214);
+}
+
+.links{
+  text-align: center;
+}
+
+.links a{
+  margin-right: 13px;
+  color: rgb(124, 124, 124);
+}
+
+.img:hover{
+  opacity: 0.8;
+}
+
+#supportWrapper{
+  display: flex;
+  justify-content: space-between;
+  margin: 0 100px;
+}
